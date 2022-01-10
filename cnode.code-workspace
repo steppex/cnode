@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "✨ root",
+			"path": "."
+		},
+		{
+			"name": "pages-vite",
+			"path": "pages-vite"
+		},
+		{
+			"name": "server-nestjs",
+			"path": "server-nestjs"
+		},
+		{
+			"name": "server-gin",
+			"path": "server-gin"
+		},
+		{
+			"name": "docs",
+			"path": "docs"
+		}
+	],
+	"settings": {}
+}
