@@ -7,4 +7,4 @@ This docs describes the interfaces based on the CNode, and make some adjustments
 
 ## License
 
-MIT
+The License is [MIT](../LICENSE).
