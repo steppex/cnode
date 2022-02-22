@@ -1,0 +1,7 @@
+env: test
+ports:
+  http: 9991
+  grpc: 9992
+mongo:
+  uri: mongodb://127.0.0.1:31017/?retryWrites=true&w=majority
+  dbname: node_club_dev

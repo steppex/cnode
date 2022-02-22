@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "debug-app",
+            "name": "debug-nestjs",
             "request": "launch",
             "runtimeArgs": [
                 "run-script",
